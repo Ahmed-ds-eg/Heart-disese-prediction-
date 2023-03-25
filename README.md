@@ -2,12 +2,12 @@
 This project is a data visualization and analysis of a heart disease dataset to help understand the factors that may contribute to the development of heart disease.
 
 ## Table of Contents
-. Introduction
-. Data Source
-. Installation and Usage
-. Features
-. Contributing
-. License
+* Introduction
+* Data Source
+* Installation and Usage
+* Features
+* Contributing
+* License
 ### Introduction
 Cardiovascular disease is the leading cause of death globally, and early diagnosis is essential for improving patient outcomes. This project aims to explore a heart disease dataset and provide insights into the factors that may contribute to the development of heart disease.
 
@@ -30,18 +30,18 @@ You can then clone the repository and open the Data_visualization_final.ipynb fi
 
 The project provides various data visualizations to explore the relationships between different variables and their impact on the presence of heart disease. The visualizations include:
 
-. Correlation Matrix Heatmap
-. Bar Plot of Age Distribution
-. Box Plots of Continuous Variables
-. Violin Plots of Continuous Variables by Heart Disease Presence
-. Count Plots of Categorical Variables by Heart Disease Presence
-. Scatter Plots of Continuous Variables by Heart Disease Presence
-. Contributing
-. Contributions to this project are welcome! You can contribute by:
+* Correlation Matrix Heatmap
+* Bar Plot of Age Distribution
+* Box Plots of Continuous Variables
+* Violin Plots of Continuous Variables by Heart Disease Presence
+* Count Plots of Categorical Variables by Heart Disease Presence
+* Scatter Plots of Continuous Variables by Heart Disease Presence
+* Contributing
+* Contributions to this project are welcome! You can contribute by:
 
 Adding new visualizations to explore the dataset further
 Refactoring code to improve performance or readability
 Fixing any bugs or errors that may be present
 
-###License
+### License
 This project is licensed under the MIT License.
