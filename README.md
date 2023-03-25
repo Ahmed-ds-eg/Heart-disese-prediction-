@@ -1,4 +1,4 @@
-Heart Disease Prediction Data Visualization
+# Heart Disease Prediction Data Visualization
 This project is a data visualization and analysis of a heart disease dataset to help understand the factors that may contribute to the development of heart disease.
 
 Table of Contents
